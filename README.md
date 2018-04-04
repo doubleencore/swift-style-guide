@@ -10,7 +10,7 @@ This document is intended to provide direction on the _writing of Swift code_. T
 
 ## What this document is _not_
 
-This document is _not_ intended to provide direciton on the writing of _apps_. It should not dictate solutions or recommend design patterns.
+This document is _not_ intended to provide direction on the writing of _apps_. It should not dictate solutions or recommend design patterns.
 
 Additionally, this document is _not_ intended to dictate which parts of Swift should be used and which should not. It should not, for example, forbid the use of custom operators. This document _should_ make formatting suggestions for such features.
 
